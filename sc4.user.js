@@ -3,7 +3,7 @@
 // @namespace    http://scratch-client-4.glitch.me/
 // @version      1.0
 // @description  Requeired for Scratch Client 4
-// @author       You
+// @author       YOYITsM3M8
 // @match        https://scratch-client-4.glitch.me/
 // @match        https://sc4-editor.glitch.me/
 // @updateURL    https://yoyitsm3m8/userscripts/sc4.user.js
