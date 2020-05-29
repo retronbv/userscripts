@@ -2,7 +2,7 @@
 // @name         Scratch Client 5
 // @namespace    http://scratch-client-5.glitch.me/
 // @version      1.0
-// @description  Requeired for Scratch Client 5
+// @description  Required for Scratch Client 5
 // @author       YOYITsM3M8
 // @match        https://scratch-client-5.glitch.me/
 // @match        https://sc5-editor.glitch.me/
