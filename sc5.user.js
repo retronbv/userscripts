@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         Scratch Client 4
-// @namespace    http://scratch-client-4.glitch.me/
+// @name         Scratch Client 5
+// @namespace    http://scratch-client-5.glitch.me/
 // @version      1.0
-// @description  Requeired for Scratch Client 4
+// @description  Requeired for Scratch Client 5
 // @author       YOYITsM3M8
-// @match        https://scratch-client-4.glitch.me/
-// @match        https://sc4-editor.glitch.me/
-// @updateURL    https://yoyitsm3m8/userscripts/sc4.user.js
+// @match        https://scratch-client-5.glitch.me/
+// @match        https://sc5-editor.glitch.me/
+// @updateURL    https://yoyitsm3m8/userscripts/sc5.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
 (function() {
     'use strict';
-    console.log("SC4 Userscript Installed")
+    console.log("SC5 Userscript Installed")
     var url = location.href;
     if (url.includes("https://scratch-client-4.glitch.me/")) {
         let userscript_on = document.getElementById("userscript-on?")
@@ -24,7 +24,7 @@
         editorHandler()
     }
     function editorHandler() {
-       console.log("SC4 Editor initialized")
+       console.log("SC5 Editor initialized")
         GM_addStyle(".blocklyFlyoutBackground {fill: #1A1A1A;fill-opacity: .8;}")
         GM_addStyle(".blocklyFlyoutLabelText {font-family: 'Helvetica Neue', Helvetica, sans-serif;font-size: 14pt;fill: #ffffff;font-weight: bold;}")
         GM_addStyle(".blocklyFlyoutButton .blocklyText {fill: #ffffff;}")
