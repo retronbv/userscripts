@@ -4,6 +4,8 @@
 
 [git-userscript-install.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/git-userscript-install.user.js)
 
+[ScratchBetterNav.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/ScratchBetterNav.user.js)
+
 ## git-userscript-install.user.js
 ### BEFORE
 ![BEFORE](/docs/pic-before.png "BEFORE")
@@ -13,3 +15,6 @@
 
 ## sc5.user.js
 Required for [SC5](https://scratch-client-5.glitch.me/) and [SC5 EDITOR](https://sc5-editor.glitch.me/)
+
+## ScratchBetterNav.user.js
+Changes "ideas" and "about" to "discuss" and "wiki" in the navbar
