@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Scratch Client 5
-// @namespace    http://scratch-client-5.glitch.me/
-// @version      1.0
-// @description  Required for Scratch Client 5
+// @namespace    Scratch Client 5
+// @version      1.1
+// @description  Requeired for Scratch Client 5
 // @author       YOYITsM3M8
 // @match        https://scratch-client-5.glitch.me/
 // @match        https://sc5-editor.glitch.me/
-// @updateURL    https://yoyitsm3m8/userscripts/sc5.user.js
+// @updateURL    https://yoyitsm3m8.github.io/userscripts/sc5.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
@@ -14,14 +14,16 @@
     'use strict';
     console.log("SC5 Userscript Installed")
     var url = location.href;
-    if (url.includes("https://scratch-client-4.glitch.me/")) {
+    if (url.includes("https://scratch-client-5.glitch.me/")) {
         let userscript_on = document.getElementById("userscript-on?")
         userscript_on.innerHTML = "Userscript is installed!";
         let userscript_icon = document.getElementById("userscript-icon")
         userscript_icon.classList.remove("icon-user-x");
         userscript_icon.classList.add("icon-user-check");
     } else {
-        editorHandler()
+        if (url.includes("https://sc5-editor.glitch.me")) {
+            editorHandler()
+        }
     }
     function editorHandler() {
        console.log("SC5 Editor initialized")
