@@ -1,7 +1,15 @@
-#What userscript:
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: yoyitsm3m8
+---
 
-#what happened:
+# What userscript:
 
-#Screenshots/steps to reproduce
+# what happened:
 
-##template made for @yoyitsm3m8/userscripts
+# Screenshots/steps to reproduce
+
+## template made for @yoyitsm3m8/userscripts
