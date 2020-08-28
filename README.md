@@ -1,5 +1,7 @@
 # MY USERSCRIPTS
 
+[Turbowarp Scratch Mod.user.js](https://github.com/YOYITsM3M8/userscripts/blob/master/Turbowarp%20Scratch%20Mod.user.js)
+
 [sc5.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/sc5.user.js)
 
 [git-userscript-install.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/git-userscript-install.user.js)
@@ -18,3 +20,6 @@ Required for [SC5](https://scratch-client-5.glitch.me/) and [SC5 EDITOR](https:/
 
 ## ScratchBetterNav.user.js
 Changes "ideas" and "about" to "discuss" and "wiki" in the navbar
+
+## Turbowarp Scratch Mod.user.js
+adds "View in Turbowarp" next to "See inside"
