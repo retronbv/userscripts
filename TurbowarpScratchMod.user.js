@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Turbowarp Scratch Mod
 // @namespace    YOYITsM3M8
-// @version      2.0
+// @version      2.1
+// @icon		 https://avatars0.githubusercontent.com/u/67349469?s=200&v=4
 // @description  adds a "View in Turbowarp" button next to see inside
 // @author       YOYITsM3M8
 // @match        https://scratch.mit.edu/projects/*
