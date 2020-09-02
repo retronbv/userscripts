@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Turbowarp Scratch Mod
 // @namespace    YOYITsM3M8
-// @version      2.1
+// @version      2.2
 // @icon		 https://avatars0.githubusercontent.com/u/67349469?s=200&v=4
 // @description  adds a "View in Turbowarp" button next to see inside
 // @author       YOYITsM3M8
@@ -20,7 +20,6 @@
         const el = document.querySelector('.project-buttons');
         try {
             if (el.classList[0] == "project-buttons") {
-                console.log("element load")
                 var turbobtn = document.createElement("button")
                 turbobtn.classList.add("button")
                 turbobtn.classList.add("button")
@@ -43,7 +42,6 @@
         const el = document.querySelector('.menu-bar_main-menu_3wjWH');
         try {
             if (el.classList[0] == "menu-bar_main-menu_3wjWH") {
-                console.log("element load")
                 var turbobtn = document.createElement("div")
                 turbobtn.classList.add("menu-bar_menu-bar-item_oLDa-")
                 var btninside = document.createElement("span");
@@ -63,7 +61,6 @@
                 btninside.appendChild(btncontent);
                 turbobtn.appendChild(btninside);
                 el.appendChild(turbobtn);
-                console.log(turbobtn);
             } else {
                 setTimeout(check2, 300); // try again in 300 milliseconds
             }
