@@ -1,6 +1,6 @@
 # MY USERSCRIPTS
 
-[Turbowarp Scratch Mod.user.js](https://github.com/YOYITsM3M8/userscripts/blob/master/Turbowarp%20Scratch%20Mod.user.js)
+[TurbowarpScratchMod.user.js](https://github.com/YOYITsM3M8/userscripts/blob/master/TurbowarpScratchMod.user.js)
 
 [sc5.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/sc5.user.js)
 
