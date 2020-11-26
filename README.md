@@ -29,6 +29,6 @@ adds "View in Turbowarp" next to "See inside"
 ## OpenInColab.user.js
 adds a *Open In Colab* button
 ## Before
-![BEFORE](docs/oic-pic-before)
+![BEFORE](docs/oic-pic-before.png "BEFORE")
 ## After
-![AFTER](doce/oic-pic-after)
+![AFTER](doce/oic-pic-after.png "AFTER")
