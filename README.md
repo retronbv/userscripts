@@ -31,4 +31,4 @@ adds a *Open In Colab* button
 ## Before
 ![BEFORE](docs/oic-pic-before.png "BEFORE")
 ## After
-![AFTER](doce/oic-pic-after.png "AFTER")
+![AFTER](docs/oic-pic-after.png "AFTER")
