@@ -8,12 +8,14 @@
 
 [ScratchBetterNav.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/ScratchBetterNav.user.js)
 
+[OpenInColab.user.js](https://github.com/yoyitsm3m8/userscripts/blob/master/OpenInColab.user.js)
+
 ## git-userscript-install.user.js
 ### BEFORE
-![BEFORE](/docs/pic-before.png "BEFORE")
+![BEFORE](docs/pic-before.png "BEFORE")
 
 ### AFTER
-![AFTER](/docs/pic-after.png "AFTER")
+![AFTER](docs/pic-after.png "AFTER")
 
 ## sc5.user.js
 Required for [SC5](https://scratch-client-5.glitch.me/) and [SC5 EDITOR](https://sc5-editor.glitch.me/)
