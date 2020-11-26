@@ -1,4 +1,4 @@
-# MY USERSCRIPTS
+# userscripts
 
 [TurbowarpScratchMod.user.js](https://github.com/YOYITsM3M8/userscripts/blob/master/TurbowarpScratchMod.user.js)
 
@@ -23,6 +23,12 @@ Required for [SC5](https://scratch-client-5.glitch.me/) and [SC5 EDITOR](https:/
 ## ScratchBetterNav.user.js
 Changes "ideas" and "about" to "discuss" and "wiki" in the navbar
 
-## Turbowarp Scratch Mod.user.js
+## TurbowarpScratcMod.user.js
 adds "View in Turbowarp" next to "See inside"
    
+## OpenInColab.user.js
+adds a *Open In Colab* button
+## Before
+![BEFORE](docs/oic-pic-before)
+## After
+![AFTER](doce/oic-pic-after)
