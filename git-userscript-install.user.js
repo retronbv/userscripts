@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Github Userscript Install
 // @namespace    http://github.com/YOYITsM3M8/userscripts/git-userscript-install.user.js/
-// @version      2.o
+// @version      2.1
 // @description  adds a userscript install button to quickly add the file to your userscript browser extention!
 // @author       YOYITsM3M8
 // @match        https://github.com/*.user.js
