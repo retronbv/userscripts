@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ScratchBetterNav
-// @namespace    https://github.com/YOYITsM3M8/ScratchBetterNav
+// @namespace    https://github.com/retronbv/ScratchBetterNav
 // @version      1.0
 // @description  Gets rid of 'about' and 'ideas' and replaces with 'discuss' and 'wiki'
 // @author       You
@@ -10,7 +10,7 @@
 
 (function() {
     'use strict';
-    console.log("Better Nav (c) YOYITsM3M8 2020")
+    console.log("Better Nav (c) retronbv 2021")
     if (location.href == "https://scratch.mit.edu/") {
         let ideas = document.getElementsByClassName("link ideas")[0]
         let about = document.getElementsByClassName("link about")[0]
