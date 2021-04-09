@@ -23,7 +23,7 @@ Required for [SC5](https://scratch-client-5.glitch.me/) and [SC5 EDITOR](https:/
 ## ScratchBetterNav.user.js
 Changes "ideas" and "about" to "discuss" and "wiki" in the navbar
 
-## TurbowarpScratcMod.user.js
+## TurbowarpScratchMod.user.js
 adds "View in Turbowarp" next to "See inside"
    
 ## OpenInColab.user.js
